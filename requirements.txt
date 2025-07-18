@@ -1,0 +1,6 @@
+unsloth
+torch
+transformers
+tqdm
+ollama
+json
